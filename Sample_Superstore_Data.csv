@@ -1,0 +1,51 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,US-2017-963293,05/10/2018,05/13/2018,Same Day,CU-49498,Customer 1,Consumer,United States,City1,State1,66139,Central,PROD-630889,Office Supplies,Binders,Binders Product 1,405.32,4,0.38,193.44
+2,US-2015-587009,04/02/2016,04/07/2016,First Class,CU-12898,Customer 2,Consumer,United States,City2,State2,86571,West,PROD-194782,Furniture,Chairs,Chairs Product 2,202.6,3,0.32,-161.09
+3,US-2016-257722,10/28/2016,11/02/2016,Standard Class,CU-48455,Customer 3,Home Office,United States,City3,State3,28755,East,PROD-192394,Technology,Copiers,Copiers Product 3,967.27,4,0.23,66.69
+4,US-2015-265624,04/09/2017,04/11/2017,First Class,CU-72187,Customer 4,Home Office,United States,City4,State4,97847,West,PROD-150353,Technology,Copiers,Copiers Product 4,544.82,2,0.34,-57.22
+5,US-2018-504150,03/18/2017,03/19/2017,Same Day,CU-29446,Customer 5,Consumer,United States,City5,State5,57631,East,PROD-891245,Office Supplies,Storage,Storage Product 5,702.66,6,0.43,117.26
+6,US-2016-693443,11/23/2017,11/25/2017,Standard Class,CU-17900,Customer 6,Home Office,United States,City6,State6,57322,East,PROD-926678,Office Supplies,Labels,Labels Product 6,228.82,8,0.27,223.55
+7,US-2016-167495,12/05/2017,12/11/2017,Same Day,CU-22894,Customer 7,Corporate,United States,City7,State7,32804,Central,PROD-818646,Office Supplies,Labels,Labels Product 7,956.53,8,0.44,261.99
+8,US-2015-893287,11/20/2016,11/26/2016,Same Day,CU-71022,Customer 8,Corporate,United States,City8,State8,41708,South,PROD-202610,Furniture,Bookcases,Bookcases Product 8,249.18,4,0.01,196.8
+9,US-2016-587827,09/22/2017,09/25/2017,Same Day,CU-10736,Customer 9,Consumer,United States,City9,State9,93316,Central,PROD-579559,Office Supplies,Labels,Labels Product 9,272.89,1,0.09,259.41
+10,US-2015-538143,07/02/2018,07/04/2018,Standard Class,CU-95339,Customer 10,Consumer,United States,City10,State10,14665,East,PROD-681172,Furniture,Bookcases,Bookcases Product 10,733.01,9,0.04,-146.58
+11,US-2018-744550,06/01/2016,06/02/2016,First Class,CU-79693,Customer 11,Consumer,United States,City11,State11,69072,Central,PROD-689905,Technology,Copiers,Copiers Product 11,225.87,4,0.12,-178.25
+12,US-2018-764565,07/30/2018,07/31/2018,Same Day,CU-72271,Customer 12,Corporate,United States,City12,State12,31445,South,PROD-847486,Furniture,Chairs,Chairs Product 12,615.21,8,0.08,-87.1
+13,US-2017-519027,05/11/2016,05/12/2016,Standard Class,CU-53576,Customer 13,Corporate,United States,City13,State13,44391,East,PROD-592779,Technology,Accessories,Accessories Product 13,703.06,1,0.0,-135.49
+14,US-2017-674396,01/22/2018,01/29/2018,Second Class,CU-67090,Customer 14,Consumer,United States,City14,State14,31189,South,PROD-736886,Technology,Phones,Phones Product 14,238.88,2,0.08,93.91
+15,US-2016-622991,05/10/2018,05/11/2018,Second Class,CU-50632,Customer 15,Corporate,United States,City15,State15,46519,East,PROD-489506,Furniture,Tables,Tables Product 15,819.12,5,0.17,-84.64
+16,US-2016-830740,01/18/2017,01/25/2017,Same Day,CU-36113,Customer 16,Home Office,United States,City16,State16,32076,Central,PROD-627821,Furniture,Chairs,Chairs Product 16,92.87,10,0.26,-123.24
+17,US-2018-775171,02/13/2018,02/15/2018,First Class,CU-68934,Customer 17,Consumer,United States,City17,State17,77275,West,PROD-985642,Furniture,Chairs,Chairs Product 17,853.39,2,0.13,-21.23
+18,US-2016-167613,08/22/2018,08/24/2018,Second Class,CU-28348,Customer 18,Consumer,United States,City18,State18,23406,Central,PROD-418888,Office Supplies,Binders,Binders Product 18,795.37,1,0.35,93.29
+19,US-2015-466960,02/23/2017,02/26/2017,Same Day,CU-34205,Customer 19,Corporate,United States,City19,State19,73857,East,PROD-938710,Furniture,Chairs,Chairs Product 19,135.9,4,0.22,-127.77
+20,US-2016-579271,09/11/2016,09/13/2016,First Class,CU-71492,Customer 20,Corporate,United States,City20,State20,22486,Central,PROD-843371,Furniture,Chairs,Chairs Product 20,219.88,7,0.18,-87.02
+21,US-2018-698842,06/29/2016,07/03/2016,First Class,CU-49864,Customer 21,Home Office,United States,City21,State21,89180,South,PROD-888024,Office Supplies,Labels,Labels Product 21,966.45,4,0.06,278.49
+22,US-2018-586424,09/27/2018,09/29/2018,Second Class,CU-58229,Customer 22,Home Office,United States,City22,State22,40769,West,PROD-793379,Technology,Copiers,Copiers Product 22,414.6,2,0.22,123.54
+23,US-2017-696723,12/09/2016,12/11/2016,Standard Class,CU-43159,Customer 23,Home Office,United States,City23,State23,88872,West,PROD-130350,Furniture,Bookcases,Bookcases Product 23,267.7,8,0.0,208.12
+24,US-2017-282860,10/15/2017,10/18/2017,Second Class,CU-86924,Customer 24,Consumer,United States,City24,State24,44792,Central,PROD-955714,Office Supplies,Binders,Binders Product 24,18.31,10,0.13,-91.48
+25,US-2018-440430,08/14/2016,08/19/2016,Standard Class,CU-25104,Customer 25,Home Office,United States,City25,State25,17288,South,PROD-263135,Office Supplies,Binders,Binders Product 25,644.37,7,0.48,19.73
+26,US-2018-377016,12/31/2016,01/02/2017,Same Day,CU-97346,Customer 26,Consumer,United States,City26,State26,21130,South,PROD-714395,Office Supplies,Labels,Labels Product 26,718.39,3,0.48,299.61
+27,US-2018-599978,01/12/2018,01/15/2018,Standard Class,CU-62216,Customer 27,Corporate,United States,City27,State27,30814,Central,PROD-469597,Furniture,Tables,Tables Product 27,254.36,9,0.21,-56.14
+28,US-2015-962583,07/10/2017,07/15/2017,Second Class,CU-97863,Customer 28,Consumer,United States,City28,State28,21863,West,PROD-551544,Furniture,Chairs,Chairs Product 28,223.65,7,0.07,209.31
+29,US-2016-209250,06/28/2016,07/04/2016,Second Class,CU-43480,Customer 29,Corporate,United States,City29,State29,14084,Central,PROD-317164,Furniture,Chairs,Chairs Product 29,434.57,8,0.5,231.29
+30,US-2017-672463,05/15/2017,05/22/2017,Standard Class,CU-49430,Customer 30,Consumer,United States,City30,State30,36533,East,PROD-348100,Office Supplies,Storage,Storage Product 30,513.08,2,0.31,140.68
+31,US-2018-977481,02/20/2016,02/23/2016,First Class,CU-88955,Customer 31,Consumer,United States,City31,State31,94129,West,PROD-407150,Furniture,Chairs,Chairs Product 31,304.03,8,0.44,45.13
+32,US-2015-770328,01/07/2016,01/14/2016,Standard Class,CU-92604,Customer 32,Consumer,United States,City32,State32,40182,Central,PROD-141621,Furniture,Chairs,Chairs Product 32,19.02,4,0.47,-40.02
+33,US-2016-119092,03/04/2016,03/08/2016,Same Day,CU-69383,Customer 33,Home Office,United States,City33,State33,39255,East,PROD-510308,Technology,Phones,Phones Product 33,692.7,6,0.47,16.08
+34,US-2017-873441,05/04/2018,05/09/2018,Second Class,CU-30664,Customer 34,Consumer,United States,City34,State34,62804,West,PROD-532509,Office Supplies,Binders,Binders Product 34,362.38,8,0.29,183.06
+35,US-2018-629287,03/21/2018,03/27/2018,Same Day,CU-65789,Customer 35,Corporate,United States,City35,State35,78969,Central,PROD-255576,Office Supplies,Storage,Storage Product 35,957.17,8,0.14,99.26
+36,US-2018-992935,11/15/2016,11/16/2016,Second Class,CU-31965,Customer 36,Home Office,United States,City36,State36,25548,East,PROD-660192,Technology,Copiers,Copiers Product 36,479.28,6,0.1,-119.88
+37,US-2018-988194,10/22/2017,10/24/2017,Second Class,CU-60507,Customer 37,Corporate,United States,City37,State37,79852,South,PROD-142380,Furniture,Bookcases,Bookcases Product 37,855.11,2,0.1,75.57
+38,US-2018-392296,02/19/2016,02/20/2016,Same Day,CU-24141,Customer 38,Consumer,United States,City38,State38,99786,Central,PROD-967751,Furniture,Tables,Tables Product 38,72.85,2,0.34,292.19
+39,US-2017-862007,04/17/2016,04/22/2016,First Class,CU-15517,Customer 39,Consumer,United States,City39,State39,73154,East,PROD-761074,Technology,Phones,Phones Product 39,950.14,8,0.07,-9.57
+40,US-2017-199937,09/27/2018,09/29/2018,Same Day,CU-53034,Customer 40,Consumer,United States,City40,State40,72833,East,PROD-332482,Furniture,Chairs,Chairs Product 40,278.65,6,0.4,-134.87
+41,US-2018-622938,09/09/2018,09/11/2018,Standard Class,CU-95709,Customer 41,Home Office,United States,City41,State41,44201,Central,PROD-126578,Furniture,Bookcases,Bookcases Product 41,594.87,6,0.41,-127.23
+42,US-2017-492585,06/10/2016,06/16/2016,Standard Class,CU-22980,Customer 42,Consumer,United States,City42,State42,34291,East,PROD-367615,Technology,Copiers,Copiers Product 42,229.98,10,0.08,17.07
+43,US-2016-556359,02/10/2017,02/15/2017,Same Day,CU-16524,Customer 43,Corporate,United States,City43,State43,37629,West,PROD-151644,Technology,Copiers,Copiers Product 43,358.65,7,0.19,250.68
+44,US-2017-360155,07/24/2018,07/29/2018,Second Class,CU-50912,Customer 44,Corporate,United States,City44,State44,88535,West,PROD-627673,Technology,Accessories,Accessories Product 44,247.88,1,0.46,138.2
+45,US-2016-592779,06/10/2017,06/12/2017,Standard Class,CU-89275,Customer 45,Consumer,United States,City45,State45,56412,Central,PROD-656225,Office Supplies,Labels,Labels Product 45,682.28,5,0.02,75.58
+46,US-2018-622768,03/25/2018,03/26/2018,First Class,CU-65276,Customer 46,Corporate,United States,City46,State46,20707,South,PROD-500525,Technology,Copiers,Copiers Product 46,876.08,10,0.25,69.33
+47,US-2016-473503,08/21/2016,08/25/2016,Standard Class,CU-29507,Customer 47,Home Office,United States,City47,State47,46128,East,PROD-992578,Furniture,Tables,Tables Product 47,904.78,6,0.05,123.67
+48,US-2018-227440,02/08/2017,02/12/2017,Second Class,CU-92388,Customer 48,Consumer,United States,City48,State48,50170,West,PROD-818096,Technology,Accessories,Accessories Product 48,134.79,9,0.46,138.1
+49,US-2018-560381,11/02/2016,11/09/2016,Second Class,CU-36335,Customer 49,Corporate,United States,City49,State49,47095,West,PROD-551992,Technology,Phones,Phones Product 49,93.1,3,0.15,-120.76
+50,US-2018-746925,04/07/2017,04/09/2017,First Class,CU-62568,Customer 50,Home Office,United States,City50,State50,98070,Central,PROD-321659,Office Supplies,Storage,Storage Product 50,297.87,9,0.02,128.07
